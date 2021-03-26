@@ -1,6 +1,10 @@
+import React from "react"
+
 const Mainframe = () => {
     return (
-        <div>Main window</div>
+        <div className="mainframe" >
+            main window
+        </div>
     )
 }
 

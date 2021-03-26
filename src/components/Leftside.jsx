@@ -1,6 +1,10 @@
+import React from "react"
+
 const Leftside = () => {
     return (
-        <div>left sidebar</div>
+        <div className="leftsidebar">
+            left side
+        </div>
     )
 }
 
