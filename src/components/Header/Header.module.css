@@ -1,0 +1,14 @@
+.wrapper {
+    display: flex;
+}
+
+.logoImg img{
+    float: left;
+    width: 65px;
+    padding: 10px;
+}
+
+.headline {
+    margin: auto;
+    font-weight: bold;
+}
