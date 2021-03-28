@@ -33,3 +33,7 @@
 .navbar li:hover a {
     color: white;
 }
+
+.navbar li a.active {
+    color: navy;
+}
